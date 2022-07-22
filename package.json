@@ -1,0 +1,22 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Seasons.js",
+  "scripts": {
+    "test": "nodemon Seasons.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnriqueAguilarP/dataStructures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnriqueAguilarP/dataStructures/issues"
+  },
+  "homepage": "https://github.com/EnriqueAguilarP/dataStructures#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
